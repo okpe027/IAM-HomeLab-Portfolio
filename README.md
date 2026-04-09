@@ -28,7 +28,7 @@ cloud environment — mirroring real enterprise IAM operations.
 | Lab | Title | Status | Environment |
 |---|---|---|---|
 | 01 | Build On-Prem AD Environment | ✅ Complete | VMware + Windows Server |
-| 02 | RBAC Design & Role Matrix | 🔄 In Progress | On-Prem + Excel |
+| 02 | RBAC Design, Role Engineering & Access Governance |  ✅ Complete | VMware Workstation • Windows Server 2022 • Active Directory • Excel |
 | 03 | Offboarding & Access Revocation | ⏳ Upcoming | On-Prem + Azure |
 | 04 | Account Lockout Investigation | ⏳ Upcoming | Event Viewer + Entra |
 | 05 | Azure AD Connect Hybrid Sync | ⏳ Upcoming | On-Prem + Azure |
