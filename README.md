@@ -1,4 +1,4 @@
-# IAM-HomeLab-Portfolio - Opeyemi Ogundimu
+# IAM-Lab-Portfolio - Opeyemi Ogundimu
 # Identity & Access Management Specialist | IT Security Professional
 # IAM Home Lab Portfolio — Opeyemi Ogundimu
 
