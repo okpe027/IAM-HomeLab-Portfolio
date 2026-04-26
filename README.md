@@ -27,11 +27,11 @@ cloud environment — mirroring real enterprise IAM operations.
 
 | Lab | Title | Status | Environment |
 |---|---|---|---|
-| 01 | Build On-Prem AD Environment | ✅ Complete | VMware + Windows Server |
-| 02 | RBAC Design, Role Engineering & Access Governance |  ✅ Complete | VMware Workstation • Windows Server 2022 • Active Directory • Excel |
+| 01 | Build On-Prem AD Environment | ✅ Complete | VMware waorkstation Pro + Windows Server |
+| 02 | RBAC Design, Role Engineering & Access Governance |  ✅ Complete | VMware Workstation • Windows Server 2022 • Active Directory User computers • Excel |
 | 03 | Offboarding & Access Revocation | ✅ Complete| Active Directory Users and Computers (DC01), your Provisioning Log from Lab 01, Excel, Notepad
-| 04 | Account Lockout Investigation | ⏳ Upcoming | Event Viewer + Entra |
-| 05 | Azure AD Connect Hybrid Sync | ⏳ Upcoming | On-Prem + Azure |
+| 04 | Account Lockout Investigation | ✅ Complete | Event Viewer + Entra |
+| 05 | Azure AD Connect Hybrid Sync | ✅ Complete | On-Prem + Azure |
 | 06 | Conditional Access Policies | ⏳ Upcoming | Azure Entra ID |
 | 07 | Complete Hybrid Offboarding | ⏳ Upcoming | On-Prem + Azure |
 | 08 | PIM, SSPR & MFA Controls | ⏳ Upcoming | Azure Entra ID |
