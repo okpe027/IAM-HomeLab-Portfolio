@@ -32,7 +32,7 @@ cloud environment — mirroring real enterprise IAM operations.
 | 03 | Offboarding & Access Revocation | ✅ Complete| Active Directory Users and Computers (DC01), your Provisioning Log from Lab 01, Excel, Notepad
 | 04 | Account Lockout Investigation | ✅ Complete | VMware Workstation · Windows Server 2022 · Active Directory · Event Viewer · PowerShell
 | 05 | Azure AD Connect Hybrid Sync | ✅ Complete | VMware Workstation · Windows Server 2022 · Microsoft Entra Connect · Azure Entra ID
-| 06 | Conditional Access: The Point Where Identity Becomes Security | ✅ Complete | Azure Entra ID |
+| 06 | Conditional Access: The Point Where Identity Becomes Security | ✅ Complete | Microsoft Entra ID P2 · fictionalcorp.onmicrosoft.com
 | 07 | Complete Hybrid Offboarding | ⏳ Upcoming | On-Prem + Azure |
 | 08 | PIM, SSPR & MFA Controls | ⏳ Upcoming | Azure Entra ID |
 | 09 | SAML 2.0 SSO End-to-End | ⏳ Upcoming | Okta + Azure |
